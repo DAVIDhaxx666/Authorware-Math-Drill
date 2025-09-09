@@ -7,7 +7,9 @@ You can use it anywhere that uses Windows as it's operating system.
 
 ## Other Operating Systems
 For Linux, use Wine to run it.
+
 For Mac, Use a Virtual Machine running Windows to run it.
+
 web binaries will be made in the future.
 
 It is a portable executeble file so no need to install anything.
