@@ -6,3 +6,5 @@ And I was The tester for theese programs, I only tested The Multiplication one, 
 You can Use it at home, School, or Office.
 Because It's a portable EXE though, You Can Run It on a flash Drive!
 The Source Code is included Too!
+
+The binaries will be in the releases.
